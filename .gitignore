@@ -30,8 +30,7 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files - 커밋하여 다른 PC에서 바로 사용 가능하도록 함
 
 # vercel
 .vercel
